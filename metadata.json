@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "An application to accurately transcribe audio files into text using the Gemini API. Users can upload an audio file, select the language, and receive a complete text transcription, with an optional feature to identify different speakers.",
+  "requestFramePermissions": []
+}
